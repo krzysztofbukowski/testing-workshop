@@ -1,3 +1,5 @@
 {
-  "presets": "../configuration/calculator.solution/.babelrc.js"
+  "presets": [
+    "../configuration/calculator.solution/.babelrc.js"
+  ]
 }
